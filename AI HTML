@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Character Network Visualization</title>
+</head>
+<body>
+    <h1>Character Network: Beowulf and Romeo and Juliet</h1>
+    <p>This visualization shows the relationships between characters in Beowulf and Romeo and Juliet.</p>
+    <img src="character_network.png" alt="Character Network Visualization">
+</body>
+</html>
